@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammadshoaib67.github.io/sitemap.xml
